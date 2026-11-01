@@ -1,16 +1,14 @@
-## Hi there 👋
+<table><tr><td align="center">
 
-<!--
-**gSahin5713/gSahin5713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://aicollaboration.vercel.app/gSahin5713/#6823c22f3419b51c"><img src="readme/card.svg?v=1793576899" alt="" width="1600" /></a>
 
-Here are some ideas to get you started:
+</td></tr></table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I keep coming back to
+
+Still early here; the first projects are on their way.
+
+- **[gSahin5713](https://github.com/gSahin5713/gSahin5713)** — GitHub profile README
+
+
+[Read the collaboration proposal →](https://aicollaboration.vercel.app/gSahin5713/#6823c22f3419b51c)
