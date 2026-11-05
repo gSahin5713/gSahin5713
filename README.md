@@ -1,14 +1,7 @@
-<table><tr><td align="center">
+<div align="center">
 
-<a href="https://dataannotation.vercel.app/gSahin5713/#6823c22f3419b51c"><img src="readme/card.svg?v=1793578741" alt="" width="1600" /></a>
+<a href="https://dataannotation.vercel.app/gSahin5713/#6823c22f3419b51c">
+  <img src="https://raw.githubusercontent.com/gSahin5713/gSahin5713/main/readme/card-1793896607.png" alt="Collaboration offer — long-term AI and software work" width="960" />
+</a>
 
-</td></tr></table>
-
-### Projects I keep coming back to
-
-Still early here; the first projects are on their way.
-
-- **[gSahin5713](https://github.com/gSahin5713/gSahin5713)** — GitHub profile README
-
-
-[Read the collaboration proposal →](https://dataannotation.vercel.app/gSahin5713/#6823c22f3419b51c)
+</div>
